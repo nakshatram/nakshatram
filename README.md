@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nakshatram
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python,Json
-- 💞️ I’m looking to collaborate on data Science, Machine Learning
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning AWS,GCP,DevOps
+- 💞️ I’m looking to collaborate on Devops project, Machine Learning
 - 📫 How to reach me....
 
 <!---
